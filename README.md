@@ -1,4 +1,4 @@
-# Comparación de Números en Ensamblador MIPS
+# Comparación de Números para encontrar el mayor en Ensamblador MIPS
 
 Este programa en Ensamblador MIPS permite al usuario ingresar entre 3 y 5 números y luego determina cuál es el número mayor de los ingresados.
 
